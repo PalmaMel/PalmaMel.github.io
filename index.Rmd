@@ -5,11 +5,7 @@ links:
   - label: Github
     url: "https://github.com/PalmaMel"
   - label: BlueSky
-    url: "pendiente"
-  - label: Twitter
-    url: "pendiente"
-  - label: Linkedin
-    url: "pendiente"
+    url: "https://bsky.app/profile/palmamel.bsky.social"
   - label: School Email
     url: "mailto:melissap@lcg.unam.mx"
 output:
@@ -18,13 +14,16 @@ output:
  
 ## About Me
 
-Hi, i am a 20 year old undergraduate student of the Genomic Sciences program of the National Autonomous University of Mexico (UNAM), currently doing a research internship at the Biotechnology Institute (IBt) about plant genomics. 
+Hi, i am a 20 year old undergraduate student of the Genomic Sciences program of the National Autonomous University of Mexico (UNAM). I don’t have a defined research topic yet, so I’m still open to new opportunities. However, I would like to improve my programming skills.
 
 I really enjoy drawing and singing, but usually you may find me reading fiction or hanging out with my family and pets. 
 
-I don’t have a defined research topic yet, so I’m still open to new opportunities. However, I would like to improve my programming skills.
-
 ## Education
 
-## Experience
+**National Preparatory High School** | Mexico
 
+Highschool |  2020 - 2023
+
+**Centro de Ciencias Genómicas** | Mexico
+
+Undergraduate student | 2021-Present
